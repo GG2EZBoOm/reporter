@@ -6,7 +6,7 @@ Kooperatives Reporter-Horrorspiel für 1–4 Spieler. Gemeinsam verborgene Orte 
 
 [Windows-Client herunterladen](https://github.com/GG2EZBoOm/reporter/releases/latest)
 
-Die Datei **Kekish-Newsreel-Reporter-2026.10.18.4-Windows.zip** vollständig entpacken und **Spielen.cmd** starten. Unity und Unity Hub werden zum Spielen nicht benötigt. Download rund 164 MB, entpackt rund 218 MB.
+Die Datei **Kekish-Newsreel-Reporter-2026.10.18.5-Windows.zip** vollständig entpacken und **Spielen.cmd** starten. Unity und Unity Hub werden zum Spielen nicht benötigt. Download rund 164 MB, entpackt rund 218 MB.
 
 Der Host legt Schwierigkeit und Einsatzzeit fest. Andere Reporter können über eine Host-IP, einen KNR1-Einladecode oder die Discord-Anbindung beitreten. Für Internet-Multiplayer muss der Host auf **UDP 7777** erreichbar sein oder ein gemeinsames virtuelles Netzwerk genutzt werden. Ein Relay-Server ist nicht enthalten.
 
