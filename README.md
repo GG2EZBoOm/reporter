@@ -4,9 +4,9 @@ Kooperatives Reporter-Horrorspiel für 1–4 Spieler. Gemeinsam verborgene Orte 
 
 ## Spielen
 
-[Windows-Client herunterladen](https://github.com/GG2EZBoOm/reporter/releases/download/v2026.10.23.3/Kekish-Newsreel-Reporter-2026.10.23.3-Windows.zip)
+[Windows-Client herunterladen](https://github.com/GG2EZBoOm/reporter/releases/download/v2026.10.23.4/Kekish-Newsreel-Reporter-2026.10.23.4-Windows.zip)
 
-Die Datei **Kekish-Newsreel-Reporter-2026.10.23.3-Windows.zip** vollständig entpacken und **Spielen.cmd** starten. Unity und Unity Hub werden zum Spielen nicht benötigt. Download rund 200 MB, entpackt rund 253 MB.
+Die Datei **Kekish-Newsreel-Reporter-2026.10.23.4-Windows.zip** vollständig entpacken und **Spielen.cmd** starten. Unity und Unity Hub werden zum Spielen nicht benötigt. Download rund 200 MB, entpackt rund 253 MB.
 
 Im Nachrichtenzentrum führt ein Durchgang neben der Regie in die **Beweisgalerie**. Dort stehen die persönlichen Errungenschaften des Lobby-Hosts: echte aufgenommene Fotos und freigeschaltete Erinnerungsstücke. Rahmen und Galeriekatalog lassen sich mit **E** ansehen. Fortschritte und Ausstellungsfotos werden lokal dauerhaft gespeichert; Gäste behalten zusätzlich ihre eigene Sammlung.
 
